@@ -1,6 +1,7 @@
-Fri Dec 10 2021 22:45:51
+Tue Dec 14 2021 11:36:56
 
-https://nextjs.org/learn/
+Am following this little tutorial and ended with this section:
 
-Can later add TailWindCSS https://nextjs.org/learn/basics/assets-metadata-css/styling-tips
+> https://nextjs.org/learn/basics/dynamic-routes/render-markdown
 
+![error](./public/images/error.png
