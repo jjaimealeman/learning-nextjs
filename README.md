@@ -4,4 +4,4 @@ Am following this little tutorial and ended with this section:
 
 > https://nextjs.org/learn/basics/dynamic-routes/render-markdown
 
-![error](./public/images/error.png
+![error](./public/images/error.png)
